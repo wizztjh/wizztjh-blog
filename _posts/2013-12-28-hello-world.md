@@ -7,7 +7,7 @@ Welcome to [Hyde](http://andhyde.com), the perfect companion to [Jekyll](http://
 
 ### Features
 
-* Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and page)
+* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * [Eight optional color schemes](https://github.com/mdo/hyde#themes), available via `<body>` classes
 * Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/mdo/hyde#reverse-layout) (right sidebar), available via `<body>` classes
 * Mobile first design and development, so it works great on all devices
