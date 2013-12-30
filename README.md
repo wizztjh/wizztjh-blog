@@ -1,4 +1,7 @@
-# [Hyde](http://andhyde.com)
+**Hyde 1.x has been deprecated for the upcoming Hyde 2.0, [available here](https://github.com/poole/hyde).**
+
+
+## [Hyde](http://andhyde.com)
 
 An elegant open source, mobile first theme for [Jekyll](https://github.com/mojombo/jekyll). It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
 
