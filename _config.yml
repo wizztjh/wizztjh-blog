@@ -1,12 +1,15 @@
-title:        Hyde
-tagline:      'Hyde, a Jekyll theme'
-description:  'An elegant open source and mobile first theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:          http://andhyde.com
-version:      1.1.1
+title:        wizztjh
+tagline:      'A humble blog from a software engineer that focus on web development and agile/scrum'
+description:  ''
+url:          http://github.com/wizztjh
 author:
-  name:       ''
-  email:      ''
-markdown:     rdiscount
+  name:       'Tee Jia Hen'
+  email:      'wizztjh@gmail.com'
+markdown:     redcarpet
 permalink:    pretty
-pygments:     true
+highlighter:  pygments
 paginate:     5
+kramdown:
+  input: GFM
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
